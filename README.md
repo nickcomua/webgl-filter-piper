@@ -52,16 +52,12 @@ cd gpu-image-processing
 
 2. **Install dependencies**
 ```bash
-npm install
-# or
-yarn install
+pnpm install
 ```
 
 3. **Start development server**
 ```bash
-npm run dev
-# or
-yarn dev
+pnpm run dev
 ```
 
 4. **Open browser**
